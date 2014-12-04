@@ -1,7 +1,7 @@
-#+ Awesome Tools
+#+TITLE: Awesome Tools
 
-Yet another list of useful tools by CeSeNA
+A list of useful tools used by some CeSeNA members
 
 ** Categories
 
-- [[./net][net] :: Networking tools
+- [[./net][net]] :: Networking tools
