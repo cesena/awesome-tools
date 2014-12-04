@@ -1,7 +1,11 @@
 #+TITLE: Awesome Tools
 
-A list of useful tools used by some CeSeNA members
+A list of useful tools used by some CeSeNA members.
 
 ** Categories
 
 - [[./net][net]] :: Networking tools
+
+** License
+
+The repository contents are available under the [[./LICENSE][Apache Version 2.0 license]].
