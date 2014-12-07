@@ -1,0 +1,22 @@
+** Strings handlers
+
+- [[http://beyondgrep.com/][ack]] ::
+  Ack is a tool like grep, optimized for programmers with large heterogeneous
+  trees of source code, ack is written purely in portable Perl 5 and takes
+  advantage of the power of Perl's regular expressions.
+
+** File handlers
+
+- [[http://www.sno.phy.queensu.ca/~phil/exiftool/ ][ExifTool by Phil Harvey ]] ::
+
+** Win
+
+- [[http://www.autohotkey.com/ ][AutoHotkey ]] ::
+
+- [[https://github.com/mattifestation/PowerSploit ][mattifestation/PowerSploit ]] ::
+
+** Ascii
+
+- [[http://aewan.sourceforge.net/ ][Aewan Ascii Art Editor ]] ::
+
+- [[http://ditaa.sourceforge.net/ ][ditaa ]] ::

@@ -5,3 +5,8 @@
     artifacts of power. It reclaims google, altavista, babelfish, dejanews, freshmeat, research index, slashdot
     and many others from the false-prophet, pox-infested heathen lands of html-forms, placing these wonders where
     they belong, deep in unix heartland, as god loving extensions to the shell.
+
+- [[http://defaultports.com/ ][Default DB Ports]] ::
+    Default DB Ports, Computer Ports, TCP/UDP Ports, Services, Protocols
+
+- [[http://www.shodanhq.com/ ][SHODAN - Computer Search Engine ]] ::
