@@ -2,12 +2,13 @@
 
 A list of useful tools used by some CeSeNA members.
 
-Would you like to add new categories? Follow the [Gentoo's guidelines](http://packages.gentoo.org/categories/).
+Would you like to add new categories? Follow the [[http://packages.gentoo.org/categories/][Gentoo's guidelines]].
 
 ** Categories
 
 - [[./net][net]] :: Networking tools
 - [[./sys][sys]] :: System tools
+- [[./sec][sec]] :: Security
 
 ** License
 
