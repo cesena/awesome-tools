@@ -11,6 +11,7 @@
 - [[http://www.secdev.org/projects/shellforge/ ][ShellForge ]] ::
 
 ** Pentest
+- [[https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework][OWASP Mantra Security Framework]] ::
 - [[http://inguma.sourceforge.net/ ][Inguma - A Free Vulnerability Research and Penetration Testing Toolkit ]] ::
 - [[https://github.com/dloss/python-pentest-tools ][dloss/python-pentest-tools ]] ::
 
