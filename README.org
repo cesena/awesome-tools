@@ -6,9 +6,9 @@ Would you like to add new categories? Follow the [[http://packages.gentoo.org/ca
 
 ** Categories
 
-- [[./net][net]] :: Networking tools
-- [[./sys][sys]] :: System tools
-- [[./sec][sec]] :: Security
+- [[./net/browse.org][net]] :: Networking tools
+- [[./sys/browse.org][sys]] :: System tools
+- [[./sec/browse.org][sec]] :: Security
 
 ** License
 
