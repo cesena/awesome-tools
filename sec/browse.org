@@ -5,20 +5,20 @@
 - [[http://en.wikibooks.org/wiki/X86_Disassembly/Analysis_Tools][x86 analysis tools]]
 
 ** Shellcode
-- [[http://code.google.com/p/alpha3/ ][alpha3 - Alphanumeric shellcode encoder - Google Project Hosting ]] ::
-- [[http://code.google.com/p/beta3/ ][beta3 - BETA3 multi-format shellcode encoding tool - Google Project Hosting ]] ::
-- [[http://code.google.com/p/testival/ ][testival - Suite of tools to aid in shellcode development - Google Project Hosting ]] ::
-- [[http://community.coresecurity.com/~gera/ProgrammingPearls/InlineEgg.html ][gera - Programming Pearls - InlineEgg ]] ::
-- [[http://libemu.carnivore.it/ ][libemu – x86 Shellcode Emulation ]] ::
-- [[http://www.secdev.org/projects/shellforge/ ][ShellForge ]] ::
+- [[http://code.google.com/p/alpha3/][alpha3 - Alphanumeric shellcode encoder - Google Project Hosting]] ::
+- [[http://code.google.com/p/beta3/][beta3 - BETA3 multi-format shellcode encoding tool - Google Project Hosting]] ::
+- [[http://code.google.com/p/testival/][testival - Suite of tools to aid in shellcode development - Google Project Hosting]] ::
+- [[http://community.coresecurity.com/~gera/ProgrammingPearls/InlineEgg.html][gera - Programming Pearls - InlineEgg]] ::
+- [[http://libemu.carnivore.it/][libemu – x86 Shellcode Emulation]] ::
+- [[http://www.secdev.org/projects/shellforge/][ShellForge]] ::
 
 ** Pentest
 - [[https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework][OWASP Mantra Security Framework]] ::
-- [[http://inguma.sourceforge.net/ ][Inguma - A Free Vulnerability Research and Penetration Testing Toolkit ]] ::
-- [[https://github.com/dloss/python-pentest-tools ][dloss/python-pentest-tools ]] ::
+- [[http://inguma.sourceforge.net/][Inguma - A Free Vulnerability Research and Penetration Testing Toolkit]] ::
+- [[https://github.com/dloss/python-pentest-tools][dloss/python-pentest-tools]] ::
 
 ** Win
-- [[http://pedump.me/ ][pedump.me ]] ::
+- [[http://pedump.me/][pedump.me]] ::
 
 ** Framework
 - [[http://pwntools.com/][CTF pwntools]] ::
