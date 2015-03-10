@@ -6,7 +6,7 @@ Would you like to add new categories? Follow the [Gentoo's guidelines](http://pa
 
 ## Services
 
-* [Trello board](https://trello.com/b/dF0MdXL3/official-website),
+* [Trello board](https://trello.com/b/43flPlbR/awesome-tools),
   using the Scrum development methodology.
 * [Slack room](https://cesena.slack.com/messages/awesome-tools).
 
