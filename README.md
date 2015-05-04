@@ -4,12 +4,6 @@ A list of useful tools used by some CeSeNA members.
 
 Would you like to add new categories? Follow the [Gentoo's guidelines](http://packages.gentoo.org/categories).
 
-## Services
-
-* [Trello board](https://trello.com/b/43flPlbR/awesome-tools),
-  using the Scrum development methodology.
-* [Slack room](https://cesena.slack.com/messages/awesome-tools).
-
 ## Categories
 
 - **[Networking tools](./net/browse.org)** 
