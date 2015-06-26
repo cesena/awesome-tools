@@ -4,6 +4,7 @@
 - [[https://code.google.com/p/distorm/ ][distorm - Powerful Disassembler Library For x86/AMD64 - Google Project Hosting ]] ::
 - [[http://en.wikibooks.org/wiki/X86_Disassembly/Analysis_Tools][x86 analysis tools]]
 - [[https://github.com/whatsbcn/skpd/][dump a process to ELF]]
+- [[https://github.com/BR903/ELFkickers][ELF mangling tools]]
 
 ** Reversing
 - [[http://wiki.yobi.be/wiki/Reverse-Engineering][reverse]]
